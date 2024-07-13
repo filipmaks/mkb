@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Girmek",
       "signup_form_email_label": "E-posta",
       "signup_form_success": "Açılıştan hemen önce size bir e-posta göndereceğiz!",
-      "admin_link_html": "Mağaza sahibi misiniz? <a href=\"/admin\" class=\"text-link\">Giriş yapın</a>",
+      "admin_link_html": "Mağaza sahibi misiniz? <a href=\"\/admin\" class=\"text-link\">Giriş yapın<\/a>",
       "password_link": "Şifre kullanarak girin",
       "powered_by_shopify_html": "Bu mağaza {{ shopify }} tarafından desteklenecek",
       "close": "kapat (esc)"
@@ -151,7 +160,7 @@
       "heading": "Vay! Sakin ol Kaplan!",
       "text": "Daha fazla Eklentiye ihtiyacınız var gibi görünüyor.\n\nMevcut planınız [plan_name] yalnızca en fazla [current_limit] Eklentiyi etkinleştirir. [upgraded_plan], [upgraded_limit] Eklentiyi etkinleştirmenize olanak tanır. TÜM Premium Özelliklerin kilidini açmak için planınızı yükseltin.",
       "upgrade_now": "Hemen Yükselt",
-      "note": "*Not: [current_limit] adetten fazla Eklenti seçilirse, yalnızca işaretlenen ilk [current_limit] Eklenti etkinleştirilir. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Fazla Eklentileri nasıl devre dışı bırakırım?</a>"
+      "note": "*Not: [current_limit] adetten fazla Eklenti seçilirse, yalnızca işaretlenen ilk [current_limit] Eklenti etkinleştirilir. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Fazla Eklentileri nasıl devre dışı bırakırım?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Girmek"
     },
     "agree_to_terms": {
-      "label_html": "<a href='/pages/terms-of-service'>Şartlar ve koşulları</a> kabul ediyorum.",
+      "label_html": "<a href='\/pages\/terms-of-service'>Şartlar ve koşulları<\/a> kabul ediyorum.",
       "warning_text": "Ödeme yapmak için satış hüküm ve koşullarını kabul etmeniz gerekir.",
       "order_title": "Şartlar ve koşulları kabul ediyorum.",
       "yes_label": "Evet"
@@ -202,7 +211,7 @@
       "error_message": "Devam etmek için bir seçim yapın"
     },
     "gift_wrap": {
-      "checkbox_label": "Hediye kutusu/paket ekleyin",
+      "checkbox_label": "Hediye kutusu\/paket ekleyin",
       "text_field_label": "Hediye mesajı",
       "text_field_placeholder": "Hediye mesajınızı buraya yazın..."
     },
@@ -316,9 +325,9 @@
       "note": "Satıcı için özel talimatlar",
       "subtotal": "ara toplam",
       "taxes_and_shipping_at_checkout": "Ödeme sırasında hesaplanan vergiler ve gönderim bedeli",
-      "taxes_and_shipping_policy_at_checkout_html": "Ödeme sırasında hesaplanan vergiler ve <a href=\"{{ link }}\">gönderim bedeli</a>",
+      "taxes_and_shipping_policy_at_checkout_html": "Ödeme sırasında hesaplanan vergiler ve <a href=\"{{ link }}\">gönderim bedeli<\/a>",
       "taxes_included_but_shipping_at_checkout": "Vergi dahildir ve gönderim bedeli ödeme sırasında hesaplanır",
-      "taxes_included_and_shipping_policy_html": "Vergi dahil. <a href=\"{{ link }}\">Ödeme</a> sırasında kargo bedeli hesaplanır.",
+      "taxes_included_and_shipping_policy_html": "Vergi dahil. <a href=\"{{ link }}\">Ödeme<\/a> sırasında kargo bedeli hesaplanır.",
       "update": "Sepeti Güncelle",
       "checkout": "Çıkış yapmak",
       "empty": "Sepetiniz şu anda boş.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Öğe miktarını bir azaltın",
       "increase_quantity": "Öğe miktarını bir artırın",
       "cookies_required": "Alışveriş sepetini kullanmak için çerezleri etkinleştirin",
-      "custom_currency_html": "Tüm siparişler {{ shopCurrency }} cinsinden işlenir. Sepetinizin içeriği şu anda görüntülenirken<span class='selected-currency'></span> , en güncel döviz kuru üzerinden {{ shopCurrency }} kullanarak ödeme yapacaksınız."
+      "custom_currency_html": "Tüm siparişler {{ shopCurrency }} cinsinden işlenir. Sepetinizin içeriği şu anda görüntülenirken<span class='selected-currency'><\/span> , en güncel döviz kuru üzerinden {{ shopCurrency }} kullanarak ödeme yapacaksınız."
     },
     "label": {
       "quantity": "Miktar",
@@ -390,9 +399,9 @@
       "address1": "Adres1",
       "address2": "Adres2",
       "city": "Şehir",
-      "country": "Ülke/Bölge",
+      "country": "Ülke\/Bölge",
       "province": "Vilayet",
-      "zip": "Posta/Posta Kodu",
+      "zip": "Posta\/Posta Kodu",
       "phone": "Telefon",
       "set_default": "Varsayılan adres olarak ayarla",
       "add": "Adres Ekle",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Slayt gösterisinde gezinmek için sol/sağ okları kullanın veya mobil cihaz kullanıyorsanız sola/sağa kaydırın",
+      "navigation_instructions": "Slayt gösterisinde gezinmek için sol\/sağ okları kullanın veya mobil cihaz kullanıyorsanız sola\/sağa kaydırın",
       "next_slide": "Sonraki slayt",
       "previous_slide": "Bir onceki slayt",
       "play": "Slayt gösterisini oynat",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Bu adres aranırken hata oluştu",
       "address_no_results": "Bu adres için sonuç yok",
-      "address_query_limit_html": "Google API kullanım sınırını aştınız. <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium Plana</a> yükseltmeyi düşünün.",
+      "address_query_limit_html": "Google API kullanım sınırını aştınız. <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plana<\/a> yükseltmeyi düşünün.",
       "auth_error_html": "Google Haritalar hesabınızın kimliği doğrulanırken bir sorun oluştu."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Satış ücreti",
       "regular_price": "Normal fiyat",
       "include_taxes": "Vergi dahil.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Ödeme</a> sırasında kargo bedeli hesaplanır.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Ödeme<\/a> sırasında kargo bedeli hesaplanır.",
       "unit_price": "Birim fiyat"
     },
     "product": {
@@ -526,7 +535,7 @@
       "view_more": "Daha fazla göster",
       "view_in_space": "Alanınızda görüntüleyin",
       "view_in_space_label": "Alanınızda görüntüleyin, öğeyi artırılmış gerçeklik penceresinde yükler",
-      "slide_label": "{{ slide_number }}/{{ slide_max }} slaytı.",
+      "slide_label": "{{ slide_number }}\/{{ slide_max }} slaytı.",
       "gallery_thumbnail_alt": "Resmi Galeri görüntüleyiciye yükleyin, {{ imageAlt }}",
       "video_thumbnail_alt": "Videoyu Galeri görüntüleyiciye yükleyin ve oynatın, {{ imageAlt }}",
       "model_thumbnail_alt": "3D modeli Galeri görüntüleyiciye yükleyin, {{ imageAlt }}"
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

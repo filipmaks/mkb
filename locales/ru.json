@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Входить",
       "signup_form_email_label": "Электронная почта",
       "signup_form_success": "Мы отправим вам письмо прямо перед открытием!",
-      "admin_link_html": "Вы владелец магазина? <a href=\"/admin\" class=\"text-link\">Войдите здесь</a>",
+      "admin_link_html": "Вы владелец магазина? <a href=\"\/admin\" class=\"text-link\">Войдите здесь<\/a>",
       "password_link": "Войти, используя пароль",
       "powered_by_shopify_html": "Этот магазин будет работать на платформе {{ shopify }}",
       "close": "закрыть (esc)"
@@ -151,7 +160,7 @@
       "heading": "Вау! Полегче, Тигр!",
       "text": "Похоже, вам нужно больше дополнений.\n\nВаш текущий план [plan_name] активирует только до [current_limit] надстроек. [upgraded_plan] позволяет активировать [upgraded_limit] надстроек. Обновите свой план, чтобы разблокировать ВСЕ Премиум-функции.",
       "upgrade_now": "Обнови сейчас",
-      "note": "*Примечание. Если выбрано более [current_limit] надстроек, активируются только первые отмеченные [current_limit] надстройки. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Как отключить лишние дополнения?</a>"
+      "note": "*Примечание. Если выбрано более [current_limit] надстроек, активируются только первые отмеченные [current_limit] надстройки. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Как отключить лишние дополнения?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Входить"
     },
     "agree_to_terms": {
-      "label_html": "Я согласен с <a href='/pages/terms-of-service'>условиями и положениями</a> .",
+      "label_html": "Я согласен с <a href='\/pages\/terms-of-service'>условиями и положениями<\/a> .",
       "warning_text": "Для оформления заказа необходимо согласиться с условиями продажи.",
       "order_title": "Я согласен с условиями.",
       "yes_label": "Да"
@@ -202,7 +211,7 @@
       "error_message": "Сделайте выбор, чтобы продолжить"
     },
     "gift_wrap": {
-      "checkbox_label": "Добавьте подарочную коробку/упаковку",
+      "checkbox_label": "Добавьте подарочную коробку\/упаковку",
       "text_field_label": "Подарочное сообщение",
       "text_field_placeholder": "Напишите сообщение о подарке здесь..."
     },
@@ -316,9 +325,9 @@
       "note": "Специальные инструкции для продавца",
       "subtotal": "Промежуточный итог",
       "taxes_and_shipping_at_checkout": "Налоги и доставка рассчитываются при оформлении заказа",
-      "taxes_and_shipping_policy_at_checkout_html": "Налоги и <a href=\"{{ link }}\">доставка</a> рассчитываются при оформлении заказа",
+      "taxes_and_shipping_policy_at_checkout_html": "Налоги и <a href=\"{{ link }}\">доставка<\/a> рассчитываются при оформлении заказа",
       "taxes_included_but_shipping_at_checkout": "Налог включен, стоимость доставки рассчитывается при оформлении заказа.",
-      "taxes_included_and_shipping_policy_html": "Включая налог. <a href=\"{{ link }}\">Доставка</a> рассчитывается при оформлении заказа.",
+      "taxes_included_and_shipping_policy_html": "Включая налог. <a href=\"{{ link }}\">Доставка<\/a> рассчитывается при оформлении заказа.",
       "update": "Обновить корзину",
       "checkout": "Проверить",
       "empty": "Ваша корзина на данный момент пуста.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Уменьшите количество товара на единицу",
       "increase_quantity": "Увеличить количество товара на единицу",
       "cookies_required": "Включите файлы cookie, чтобы пользоваться корзиной покупок",
-      "custom_currency_html": "Все заказы обрабатываются в {{ shopCurrency }}. Хотя содержимое вашей корзины в настоящее время отображается в<span class='selected-currency'></span> , вы совершите оплату с помощью {{ shopCurrency }} по актуальному обменному курсу."
+      "custom_currency_html": "Все заказы обрабатываются в {{ shopCurrency }}. Хотя содержимое вашей корзины в настоящее время отображается в<span class='selected-currency'><\/span> , вы совершите оплату с помощью {{ shopCurrency }} по актуальному обменному курсу."
     },
     "label": {
       "quantity": "Количество",
@@ -390,7 +399,7 @@
       "address1": "Адрес 1",
       "address2": "Адрес 2",
       "city": "Город",
-      "country": "Страна/регион",
+      "country": "Страна\/регион",
       "province": "Провинция",
       "zip": "Почтовый индекс",
       "phone": "Телефон",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Используйте стрелки влево/вправо для навигации по слайд-шоу или проведите пальцем влево/вправо, если используете мобильное устройство.",
+      "navigation_instructions": "Используйте стрелки влево\/вправо для навигации по слайд-шоу или проведите пальцем влево\/вправо, если используете мобильное устройство.",
       "next_slide": "Следующий слайд",
       "previous_slide": "Предыдущий слайд",
       "play": "Воспроизвести слайд-шоу",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Ошибка при поиске этого адреса.",
       "address_no_results": "Нет результатов по этому адресу",
-      "address_query_limit_html": "Вы превысили лимит использования Google API. Рассмотрите возможность перехода на <a href=\"https://developers.google.com/maps/premium/usage-limits\">Премиум-план</a> .",
+      "address_query_limit_html": "Вы превысили лимит использования Google API. Рассмотрите возможность перехода на <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Премиум-план<\/a> .",
       "auth_error_html": "Возникла проблема с аутентификацией вашего аккаунта Google Maps."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Цена продажи",
       "regular_price": "Обычная цена",
       "include_taxes": "Включая налог.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Доставка</a> рассчитывается при оформлении заказа.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Доставка<\/a> рассчитывается при оформлении заказа.",
       "unit_price": "Цена за единицу товара"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

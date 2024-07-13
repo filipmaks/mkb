@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Stiga på",
       "signup_form_email_label": "E-post",
       "signup_form_success": "Vi skickar ett mail till dig precis innan vi öppnar!",
-      "admin_link_html": "Är du butiksägaren? <a href=\"/admin\" class=\"text-link\">Logga in här</a>",
+      "admin_link_html": "Är du butiksägaren? <a href=\"\/admin\" class=\"text-link\">Logga in här<\/a>",
       "password_link": "Ange med lösenord",
       "powered_by_shopify_html": "Den här butiken kommer att drivas av {{ shopify }}",
       "close": "stäng (esc)"
@@ -151,7 +160,7 @@
       "heading": "Oj! Lätt där, Tiger!",
       "text": "Det verkar som att du behöver fler tillägg.\n\nDin nuvarande plan [plan_name] aktiveras endast upp till [current_limit] tillägg. [upgraded_plan] låter dig aktivera [upgraded_limit] tillägg. Uppgradera din plan för att låsa upp ALLA premiumfunktioner.",
       "upgrade_now": "Uppgradera nu",
-      "note": "*Obs: Om fler än [current_limit]-tillägg väljs, aktiveras endast de första [current_limit]-tilläggen som är markerade. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Hur inaktiverar jag överflödiga tillägg?</a>"
+      "note": "*Obs: Om fler än [current_limit]-tillägg väljs, aktiveras endast de första [current_limit]-tilläggen som är markerade. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Hur inaktiverar jag överflödiga tillägg?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Stiga på"
     },
     "agree_to_terms": {
-      "label_html": "Jag godkänner <a href='/pages/terms-of-service'>villkoren</a> .",
+      "label_html": "Jag godkänner <a href='\/pages\/terms-of-service'>villkoren<\/a> .",
       "warning_text": "Du måste godkänna försäljningsvillkoren för att kunna checka ut.",
       "order_title": "Jag godkänner villkoren.",
       "yes_label": "Ja"
@@ -316,9 +325,9 @@
       "note": "Särskilda instruktioner för säljaren",
       "subtotal": "Delsumma",
       "taxes_and_shipping_at_checkout": "Skatter och frakt beräknas i kassan",
-      "taxes_and_shipping_policy_at_checkout_html": "Skatter och <a href=\"{{ link }}\">frakt</a> beräknas i kassan",
+      "taxes_and_shipping_policy_at_checkout_html": "Skatter och <a href=\"{{ link }}\">frakt<\/a> beräknas i kassan",
       "taxes_included_but_shipping_at_checkout": "Inklusive moms och frakt beräknas i kassan",
-      "taxes_included_and_shipping_policy_html": "Skatt ingår. <a href=\"{{ link }}\">Frakt</a> beräknas i kassan.",
+      "taxes_included_and_shipping_policy_html": "Skatt ingår. <a href=\"{{ link }}\">Frakt<\/a> beräknas i kassan.",
       "update": "Uppdatera kundvagn",
       "checkout": "Kolla upp",
       "empty": "Din varukorg är för närvarande tom.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Minska artikelkvantiteten med en",
       "increase_quantity": "Öka artikelkvantiteten med en",
       "cookies_required": "Aktivera cookies för att använda kundvagnen",
-      "custom_currency_html": "Alla beställningar behandlas i {{ shopCurrency }}. Medan innehållet i din kundvagn för närvarande visas i<span class='selected-currency'></span> , betalar du med {{ shopCurrency }} till den senaste växelkursen."
+      "custom_currency_html": "Alla beställningar behandlas i {{ shopCurrency }}. Medan innehållet i din kundvagn för närvarande visas i<span class='selected-currency'><\/span> , betalar du med {{ shopCurrency }} till den senaste växelkursen."
     },
     "label": {
       "quantity": "Kvantitet",
@@ -390,7 +399,7 @@
       "address1": "Adress 1",
       "address2": "Adress 2",
       "city": "Stad",
-      "country": "Land/Region",
+      "country": "Land\/Region",
       "province": "Provins",
       "zip": "Postnummer",
       "phone": "Telefon",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Använd vänster/högerpilarna för att navigera i bildspelet eller svep åt vänster/höger om du använder en mobil enhet",
+      "navigation_instructions": "Använd vänster\/högerpilarna för att navigera i bildspelet eller svep åt vänster\/höger om du använder en mobil enhet",
       "next_slide": "Nästa bild",
       "previous_slide": "Föregående bild",
       "play": "Spela bildspel",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Det gick inte att leta upp den adressen",
       "address_no_results": "Inga resultat för den adressen",
-      "address_query_limit_html": "Du har överskridit användningsgränsen för Google API. Överväg att uppgradera till en <a href=\"https://developers.google.com/maps/premium/usage-limits\">premiumplan</a> .",
+      "address_query_limit_html": "Du har överskridit användningsgränsen för Google API. Överväg att uppgradera till en <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">premiumplan<\/a> .",
       "auth_error_html": "Det uppstod ett problem med att autentisera ditt Google Maps-konto."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Försäljningspris",
       "regular_price": "Vanligt pris",
       "include_taxes": "Skatt ingår.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt</a> beräknas i kassan.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt<\/a> beräknas i kassan.",
       "unit_price": "Enhetspris"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

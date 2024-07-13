@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Đi vào",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Chúng tôi sẽ gửi email cho bạn ngay trước khi mở cửa!",
-      "admin_link_html": "bạn là chủ cửa hàng à? <a href=\"/admin\" class=\"text-link\">Đăng nhập tại đây</a>",
+      "admin_link_html": "bạn là chủ cửa hàng à? <a href=\"\/admin\" class=\"text-link\">Đăng nhập tại đây<\/a>",
       "password_link": "Nhập bằng mật khẩu",
       "powered_by_shopify_html": "Cửa hàng này sẽ được cung cấp bởi {{ shopify }}",
       "close": "đóng (esc)"
@@ -151,7 +160,7 @@
       "heading": "Ôi! Bình tĩnh nào, Tiger!",
       "text": "Có vẻ như bạn cần thêm Tiện ích bổ sung.\n\nGói hiện tại của bạn [plan_name] chỉ kích hoạt tối đa [current_limit] Tiện ích bổ sung. [upgrade_plan] cho phép bạn kích hoạt Tiện ích bổ sung [upgrade_limit]. Nâng cấp gói của bạn để mở khóa TẤT CẢ các tính năng cao cấp.",
       "upgrade_now": "Nâng cấp ngay bây giờ",
-      "note": "*Lưu ý: Nếu chọn nhiều hơn [current_limit] Tiện ích bổ sung, thì chỉ các Tiện ích bổ sung [current_limit] đầu tiên được đánh dấu mới được kích hoạt. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Làm cách nào để tắt các Tiện ích bổ sung dư thừa?</a>"
+      "note": "*Lưu ý: Nếu chọn nhiều hơn [current_limit] Tiện ích bổ sung, thì chỉ các Tiện ích bổ sung [current_limit] đầu tiên được đánh dấu mới được kích hoạt. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Làm cách nào để tắt các Tiện ích bổ sung dư thừa?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Đi vào"
     },
     "agree_to_terms": {
-      "label_html": "Tôi đồng ý với <a href='/pages/terms-of-service'>Điều khoản &amp; Điều kiện</a> .",
+      "label_html": "Tôi đồng ý với <a href='\/pages\/terms-of-service'>Điều khoản &amp; Điều kiện<\/a> .",
       "warning_text": "Bạn phải đồng ý với các điều khoản và điều kiện bán hàng để kiểm tra.",
       "order_title": "Tôi đồng ý các điều khoản và điều kiện.",
       "yes_label": "Đúng"
@@ -202,7 +211,7 @@
       "error_message": "Thực hiện lựa chọn để tiếp tục"
     },
     "gift_wrap": {
-      "checkbox_label": "Thêm hộp/bọc quà",
+      "checkbox_label": "Thêm hộp\/bọc quà",
       "text_field_label": "Tin nhắn quà tặng",
       "text_field_placeholder": "Viết tin nhắn quà tặng của bạn ở đây..."
     },
@@ -316,9 +325,9 @@
       "note": "Hướng dẫn đặc biệt cho người bán",
       "subtotal": "Tổng phụ",
       "taxes_and_shipping_at_checkout": "Thuế và phí vận chuyển được tính khi thanh toán",
-      "taxes_and_shipping_policy_at_checkout_html": "Thuế và <a href=\"{{ link }}\">phí vận chuyển</a> được tính khi thanh toán",
+      "taxes_and_shipping_policy_at_checkout_html": "Thuế và <a href=\"{{ link }}\">phí vận chuyển<\/a> được tính khi thanh toán",
       "taxes_included_but_shipping_at_checkout": "Đã bao gồm thuế và phí vận chuyển được tính khi thanh toán",
-      "taxes_included_and_shipping_policy_html": "Đã bao gồm thuế. <a href=\"{{ link }}\">Vận chuyển</a> được tính khi thanh toán.",
+      "taxes_included_and_shipping_policy_html": "Đã bao gồm thuế. <a href=\"{{ link }}\">Vận chuyển<\/a> được tính khi thanh toán.",
       "update": "Cập nhật giỏ hàng",
       "checkout": "Thủ tục thanh toán",
       "empty": "Giỏ hàng của bạn hiện đang trống.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Giảm số lượng mặt hàng xuống một",
       "increase_quantity": "Tăng số lượng vật phẩm lên một",
       "cookies_required": "Kích hoạt cookie để sử dụng giỏ hàng",
-      "custom_currency_html": "Tất cả đơn đặt hàng được xử lý trong {{ shopCurrency }}. Mặc dù nội dung giỏ hàng của bạn hiện đang được hiển thị trong<span class='selected-currency'></span> , bạn sẽ thanh toán bằng cách sử dụng {{ shopCurrency }} theo tỷ giá hối đoái mới nhất."
+      "custom_currency_html": "Tất cả đơn đặt hàng được xử lý trong {{ shopCurrency }}. Mặc dù nội dung giỏ hàng của bạn hiện đang được hiển thị trong<span class='selected-currency'><\/span> , bạn sẽ thanh toán bằng cách sử dụng {{ shopCurrency }} theo tỷ giá hối đoái mới nhất."
     },
     "label": {
       "quantity": "Số lượng",
@@ -390,9 +399,9 @@
       "address1": "Địa chỉ 1",
       "address2": "Địa chỉ 2",
       "city": "Thành phố",
-      "country": "Quốc gia/Khu vực",
+      "country": "Quốc gia\/Khu vực",
       "province": "Tỉnh",
-      "zip": "Mã bưu điện/Zip",
+      "zip": "Mã bưu điện\/Zip",
       "phone": "Điện thoại",
       "set_default": "Đặt địa chỉ mặc định",
       "add": "Thêm địa chỉ",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Sử dụng mũi tên trái/phải để điều hướng trình chiếu hoặc vuốt sang trái/phải nếu sử dụng thiết bị di động",
+      "navigation_instructions": "Sử dụng mũi tên trái\/phải để điều hướng trình chiếu hoặc vuốt sang trái\/phải nếu sử dụng thiết bị di động",
       "next_slide": "Trang trình bày tiếp theo",
       "previous_slide": "Slide trước",
       "play": "Chạy trình chiếu",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Lỗi tra cứu địa chỉ đó",
       "address_no_results": "Không có kết quả cho địa chỉ đó",
-      "address_query_limit_html": "Bạn đã vượt quá giới hạn sử dụng API của Google. Hãy cân nhắc nâng cấp lên <a href=\"https://developers.google.com/maps/premium/usage-limits\">Gói đặc biệt</a> .",
+      "address_query_limit_html": "Bạn đã vượt quá giới hạn sử dụng API của Google. Hãy cân nhắc nâng cấp lên <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Gói đặc biệt<\/a> .",
       "auth_error_html": "Đã xảy ra sự cố khi xác thực tài khoản Google Maps của bạn."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Giá bán",
       "regular_price": "Giá cả phải chăng",
       "include_taxes": "Đã bao gồm thuế.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Vận chuyển</a> được tính khi thanh toán.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Vận chuyển<\/a> được tính khi thanh toán.",
       "unit_price": "Đơn giá"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }
