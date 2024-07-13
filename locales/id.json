@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Memasuki",
       "signup_form_email_label": "Surel",
       "signup_form_success": "Kami akan mengirimi Anda email tepat sebelum kami buka!",
-      "admin_link_html": "Apakah Anda pemilik toko? <a href=\"/admin\" class=\"text-link\">Masuk disini</a>",
+      "admin_link_html": "Apakah Anda pemilik toko? <a href=\"\/admin\" class=\"text-link\">Masuk disini<\/a>",
       "password_link": "Masuk menggunakan kata sandi",
       "powered_by_shopify_html": "Toko ini akan didukung oleh {{ shopify }}",
       "close": "tutup (esc)"
@@ -151,7 +160,7 @@
       "heading": "Wow! Tenang, Harimau!",
       "text": "Sepertinya Anda membutuhkan lebih banyak Add-On.\n\nPaket Anda saat ini [nama_rencana] hanya dapat diaktifkan hingga [batas_saat ini] Pengaya. [upgraded_plan] memungkinkan Anda mengaktifkan [upgraded_limit] Add-on. Tingkatkan paket Anda untuk membuka SEMUA Fitur Premium.",
       "upgrade_now": "Tingkatkan sekarang",
-      "note": "*Catatan: Jika lebih dari [batas_saat ini] Pengaya yang dipilih, hanya Pengaya [batas_saat ini] pertama yang dicentang yang akan diaktifkan. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Bagaimana cara menonaktifkan kelebihan Add-On?</a>"
+      "note": "*Catatan: Jika lebih dari [batas_saat ini] Pengaya yang dipilih, hanya Pengaya [batas_saat ini] pertama yang dicentang yang akan diaktifkan. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Bagaimana cara menonaktifkan kelebihan Add-On?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Memasuki"
     },
     "agree_to_terms": {
-      "label_html": "Saya setuju dengan <a href='/pages/terms-of-service'>syarat &amp; ketentuan</a> .",
+      "label_html": "Saya setuju dengan <a href='\/pages\/terms-of-service'>syarat &amp; ketentuan<\/a> .",
       "warning_text": "Anda harus menyetujui syarat dan ketentuan penjualan untuk memeriksa.",
       "order_title": "Saya menyetujui syarat dan ketentuan.",
       "yes_label": "Ya"
@@ -202,7 +211,7 @@
       "error_message": "Tentukan pilihan untuk melanjutkan"
     },
     "gift_wrap": {
-      "checkbox_label": "Tambahkan kotak kado/bungkus",
+      "checkbox_label": "Tambahkan kotak kado\/bungkus",
       "text_field_label": "Pesan hadiah",
       "text_field_placeholder": "Tulis pesan hadiah Anda di sini..."
     },
@@ -316,9 +325,9 @@
       "note": "Instruksi khusus untuk penjual",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Pajak dan ongkos kirim dihitung saat checkout",
-      "taxes_and_shipping_policy_at_checkout_html": "Pajak dan <a href=\"{{ link }}\">ongkos kirim</a> dihitung saat checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Pajak dan <a href=\"{{ link }}\">ongkos kirim<\/a> dihitung saat checkout",
       "taxes_included_but_shipping_at_checkout": "Termasuk pajak dan ongkos kirim dihitung saat checkout",
-      "taxes_included_and_shipping_policy_html": "Termasuk pajak. <a href=\"{{ link }}\">Pengiriman</a> dihitung saat checkout.",
+      "taxes_included_and_shipping_policy_html": "Termasuk pajak. <a href=\"{{ link }}\">Pengiriman<\/a> dihitung saat checkout.",
       "update": "Perbarui Keranjang",
       "checkout": "Periksa",
       "empty": "Keranjang Anda saat ini kosong.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Kurangi jumlah item sebanyak satu",
       "increase_quantity": "Tingkatkan jumlah item sebanyak satu",
       "cookies_required": "Aktifkan cookie untuk menggunakan keranjang belanja",
-      "custom_currency_html": "Semua pesanan diproses dalam {{ shopCurrency }}. Sementara isi keranjang Anda sedang ditampilkan<span class='selected-currency'></span> , Anda akan melakukan pembayaran menggunakan {{ shopCurrency }} dengan nilai tukar terkini."
+      "custom_currency_html": "Semua pesanan diproses dalam {{ shopCurrency }}. Sementara isi keranjang Anda sedang ditampilkan<span class='selected-currency'><\/span> , Anda akan melakukan pembayaran menggunakan {{ shopCurrency }} dengan nilai tukar terkini."
     },
     "label": {
       "quantity": "Kuantitas",
@@ -390,9 +399,9 @@
       "address1": "Alamat 1",
       "address2": "Alamat 2",
       "city": "Kota",
-      "country": "Negara/Wilayah",
+      "country": "Negara\/Wilayah",
       "province": "Propinsi",
-      "zip": "Kode Pos/Kode Pos",
+      "zip": "Kode Pos\/Kode Pos",
       "phone": "Telepon",
       "set_default": "Tetapkan sebagai alamat default",
       "add": "Tambahkan alamat",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Gunakan panah kiri/kanan untuk menavigasi tayangan slide atau geser ke kiri/kanan jika menggunakan perangkat seluler",
+      "navigation_instructions": "Gunakan panah kiri\/kanan untuk menavigasi tayangan slide atau geser ke kiri\/kanan jika menggunakan perangkat seluler",
       "next_slide": "Slide selanjut nya",
       "previous_slide": "Slide sebelumnya",
       "play": "Putar tayangan slide",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Terjadi kesalahan saat mencari alamat itu",
       "address_no_results": "Tidak ada hasil untuk alamat itu",
-      "address_query_limit_html": "Anda telah melampaui batas penggunaan Google API. Pertimbangkan untuk meningkatkan ke <a href=\"https://developers.google.com/maps/premium/usage-limits\">Paket Premium</a> .",
+      "address_query_limit_html": "Anda telah melampaui batas penggunaan Google API. Pertimbangkan untuk meningkatkan ke <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Paket Premium<\/a> .",
       "auth_error_html": "Ada masalah saat mengautentikasi akun Google Maps Anda."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Harga penjualan",
       "regular_price": "Harga normal",
       "include_taxes": "Termasuk pajak.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Pengiriman</a> dihitung saat checkout.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Pengiriman<\/a> dihitung saat checkout.",
       "unit_price": "Harga satuan"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

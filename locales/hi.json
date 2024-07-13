@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "प्रवेश करना",
       "signup_form_email_label": "ईमेल",
       "signup_form_success": "खोलने से ठीक पहले हम आपको एक ईमेल भेजेंगे!",
-      "admin_link_html": "क्या आप स्टोर के मालिक हैं? <a href=\"/admin\" class=\"text-link\">यहां लॉगिन करें</a>",
+      "admin_link_html": "क्या आप स्टोर के मालिक हैं? <a href=\"\/admin\" class=\"text-link\">यहां लॉगिन करें<\/a>",
       "password_link": "पासवर्ड का उपयोग करके दर्ज करें",
       "powered_by_shopify_html": "यह दुकान {{ shopify }} द्वारा संचालित होगी",
       "close": "बंद करें (esc)"
@@ -151,7 +160,7 @@
       "heading": "वाह! वहाँ आराम से, टाइगर!",
       "text": "ऐसा लगता है जैसे आपको और अधिक ऐड-ऑन की आवश्यकता है।\n\nआपकी वर्तमान योजना [योजना_नाम] केवल [current_limit] ऐड-ऑन तक सक्रिय होती है। [अपग्रेडेड_प्लान] आपको [अपग्रेडेड_लिमिट] ऐड-ऑन सक्रिय करने की अनुमति देता है। सभी प्रीमियम सुविधाओं को अनलॉक करने के लिए अपनी योजना को अपग्रेड करें।",
       "upgrade_now": "अभी अपग्रेड करें",
-      "note": "*ध्यान दें: यदि [current_limit] से अधिक ऐड-ऑन चुने जाते हैं, तो केवल पहले [current_limit] चेक किए गए ऐड-ऑन सक्रिय होते हैं। <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">मैं अतिरिक्त ऐड-ऑन कैसे अक्षम करूँ?</a>"
+      "note": "*ध्यान दें: यदि [current_limit] से अधिक ऐड-ऑन चुने जाते हैं, तो केवल पहले [current_limit] चेक किए गए ऐड-ऑन सक्रिय होते हैं। <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">मैं अतिरिक्त ऐड-ऑन कैसे अक्षम करूँ?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "प्रवेश करना"
     },
     "agree_to_terms": {
-      "label_html": "मैं <a href='/pages/terms-of-service'>नियम एवं शर्तों</a> से सहमत हूं।",
+      "label_html": "मैं <a href='\/pages\/terms-of-service'>नियम एवं शर्तों<\/a> से सहमत हूं।",
       "warning_text": "जांचने के लिए आपको बिक्री के नियमों और शर्तों से सहमत होना होगा।",
       "order_title": "मैं नियम एवं शर्तों से सहमत हूं.",
       "yes_label": "हाँ"
@@ -202,7 +211,7 @@
       "error_message": "जारी रखने के लिए चयन करें"
     },
     "gift_wrap": {
-      "checkbox_label": "एक उपहार बॉक्स/रैप जोड़ें",
+      "checkbox_label": "एक उपहार बॉक्स\/रैप जोड़ें",
       "text_field_label": "उपहार संदेश",
       "text_field_placeholder": "अपना उपहार संदेश यहां लिखें..."
     },
@@ -316,9 +325,9 @@
       "note": "विक्रेता के लिए विशेष निर्देश",
       "subtotal": "उप-योग",
       "taxes_and_shipping_at_checkout": "चेकआउट पर कर और शिपिंग की गणना की जाती है",
-      "taxes_and_shipping_policy_at_checkout_html": "चेकआउट पर कर और <a href=\"{{ link }}\">शिपिंग की</a> गणना की जाती है",
+      "taxes_and_shipping_policy_at_checkout_html": "चेकआउट पर कर और <a href=\"{{ link }}\">शिपिंग की<\/a> गणना की जाती है",
       "taxes_included_but_shipping_at_checkout": "कर शामिल है और शिपिंग की गणना चेकआउट के समय की जाती है",
-      "taxes_included_and_shipping_policy_html": "टैक्स शामिल। <a href=\"{{ link }}\">शिपिंग की</a> गणना चेकआउट के समय की जाती है।",
+      "taxes_included_and_shipping_policy_html": "टैक्स शामिल। <a href=\"{{ link }}\">शिपिंग की<\/a> गणना चेकआउट के समय की जाती है।",
       "update": "कार्ट अपडेट करें",
       "checkout": "चेक आउट",
       "empty": "आपकी गाड़ी वर्तमान में खाली है।",
@@ -328,7 +337,7 @@
       "reduce_quantity": "वस्तु की मात्रा एक से कम करें",
       "increase_quantity": "आइटम की मात्रा एक से बढ़ाएँ",
       "cookies_required": "शॉपिंग कार्ट का उपयोग करने के लिए कुकीज़ सक्षम करें",
-      "custom_currency_html": "सभी ऑर्डर {{ shopCurrency }} में संसाधित किए जाते हैं। जबकि आपके कार्ट की सामग्री वर्तमान में प्रदर्शित है<span class='selected-currency'></span> , आप सबसे मौजूदा विनिमय दर पर {{ shopCurrency }} का उपयोग करके चेकआउट करेंगे।"
+      "custom_currency_html": "सभी ऑर्डर {{ shopCurrency }} में संसाधित किए जाते हैं। जबकि आपके कार्ट की सामग्री वर्तमान में प्रदर्शित है<span class='selected-currency'><\/span> , आप सबसे मौजूदा विनिमय दर पर {{ shopCurrency }} का उपयोग करके चेकआउट करेंगे।"
     },
     "label": {
       "quantity": "मात्रा",
@@ -390,9 +399,9 @@
       "address1": "पता 1",
       "address2": "पता द्वितीय",
       "city": "शहर",
-      "country": "देश/क्षेत्र",
+      "country": "देश\/क्षेत्र",
       "province": "प्रांत",
-      "zip": "डाक का / ज़िप कोड",
+      "zip": "डाक का \/ ज़िप कोड",
       "phone": "फ़ोन",
       "set_default": "डिफ़ॉल्ट पते के रूप में सेट करें",
       "add": "पता जोड़ें",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "स्लाइड शो को नेविगेट करने के लिए बाएँ/दाएँ तीरों का उपयोग करें या यदि मोबाइल डिवाइस का उपयोग कर रहे हैं तो बाएँ/दाएँ स्वाइप करें",
+      "navigation_instructions": "स्लाइड शो को नेविगेट करने के लिए बाएँ\/दाएँ तीरों का उपयोग करें या यदि मोबाइल डिवाइस का उपयोग कर रहे हैं तो बाएँ\/दाएँ स्वाइप करें",
       "next_slide": "अगली स्लाइड",
       "previous_slide": "पिछली स्लाइड",
       "play": "स्लाइड शो चलाएं",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "वह पता ढूंढने में त्रुटि हुई",
       "address_no_results": "उस पते के लिए कोई परिणाम नहीं",
-      "address_query_limit_html": "आपने Google API उपयोग सीमा पार कर ली है. <a href=\"https://developers.google.com/maps/premium/usage-limits\">प्रीमियम योजना</a> में अपग्रेड करने पर विचार करें।",
+      "address_query_limit_html": "आपने Google API उपयोग सीमा पार कर ली है. <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">प्रीमियम योजना<\/a> में अपग्रेड करने पर विचार करें।",
       "auth_error_html": "आपके Google मानचित्र खाते को प्रमाणित करने में एक समस्या थी।"
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "विक्रय कीमत",
       "regular_price": "नियमित रूप से मूल्य",
       "include_taxes": "टैक्स शामिल।",
-      "shipping_policy_html": "<a href=\"{{ link }}\">शिपिंग की</a> गणना चेकआउट के समय की जाती है।",
+      "shipping_policy_html": "<a href=\"{{ link }}\">शिपिंग की<\/a> गणना चेकआउट के समय की जाती है।",
       "unit_price": "यूनिट मूल्य"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

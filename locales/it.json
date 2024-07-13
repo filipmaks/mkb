@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "accedere",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Ti invieremo un'e-mail subito prima dell'apertura!",
-      "admin_link_html": "Sei il proprietario del negozio? <a href=\"/admin\" class=\"text-link\">Accedi qui</a>",
+      "admin_link_html": "Sei il proprietario del negozio? <a href=\"\/admin\" class=\"text-link\">Accedi qui<\/a>",
       "password_link": "Accedi utilizzando la password",
       "powered_by_shopify_html": "Questo negozio sarà gestito da {{ shopify }}",
       "close": "chiudi (esc)"
@@ -151,7 +160,7 @@
       "heading": "Woah! Piano, ecco, Tigre!",
       "text": "Sembra che tu abbia bisogno di più componenti aggiuntivi.\n\nIl tuo piano attuale [nome_piano] attiva solo fino a [limite_corrente] componenti aggiuntivi. [upgraded_plan] ti consente di attivare i componenti aggiuntivi [upgraded_limit]. Aggiorna il tuo piano per sbloccare TUTTE le funzionalità Premium.",
       "upgrade_now": "Aggiorna ora",
-      "note": "*Nota: se vengono selezionati più di [current_limit] componenti aggiuntivi, verranno attivati solo i primi [current_limit] componenti aggiuntivi selezionati. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Come posso disattivare i componenti aggiuntivi in eccesso?</a>"
+      "note": "*Nota: se vengono selezionati più di [current_limit] componenti aggiuntivi, verranno attivati solo i primi [current_limit] componenti aggiuntivi selezionati. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Come posso disattivare i componenti aggiuntivi in eccesso?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "accedere"
     },
     "agree_to_terms": {
-      "label_html": "Sono d&#39;accordo con i <a href='/pages/terms-of-service'>termini e le condizioni</a> .",
+      "label_html": "Sono d&#39;accordo con i <a href='\/pages\/terms-of-service'>termini e le condizioni<\/a> .",
       "warning_text": "È necessario accettare i termini e le condizioni di vendita per effettuare il check-out.",
       "order_title": "Accetto termini e condizioni.",
       "yes_label": "SÌ"
@@ -202,7 +211,7 @@
       "error_message": "Effettua una selezione per continuare"
     },
     "gift_wrap": {
-      "checkbox_label": "Aggiungi una confezione/confezione regalo",
+      "checkbox_label": "Aggiungi una confezione\/confezione regalo",
       "text_field_label": "Messaggio regalo",
       "text_field_placeholder": "Scrivi qui il tuo messaggio regalo..."
     },
@@ -316,9 +325,9 @@
       "note": "Istruzioni speciali per il venditore",
       "subtotal": "totale parziale",
       "taxes_and_shipping_at_checkout": "Tasse e spese di spedizione calcolate al momento del pagamento",
-      "taxes_and_shipping_policy_at_checkout_html": "Tasse e <a href=\"{{ link }}\">spese di spedizione</a> calcolate al momento del pagamento",
+      "taxes_and_shipping_policy_at_checkout_html": "Tasse e <a href=\"{{ link }}\">spese di spedizione<\/a> calcolate al momento del pagamento",
       "taxes_included_but_shipping_at_checkout": "Tasse incluse e spedizione calcolata al momento del pagamento",
-      "taxes_included_and_shipping_policy_html": "Tasse incluse. <a href=\"{{ link }}\">Spedizione</a> calcolata al momento del pagamento.",
+      "taxes_included_and_shipping_policy_html": "Tasse incluse. <a href=\"{{ link }}\">Spedizione<\/a> calcolata al momento del pagamento.",
       "update": "Aggiorna carrello",
       "checkout": "Guardare",
       "empty": "Il carrello è vuoto.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Riduci la quantità dell'articolo di uno",
       "increase_quantity": "Aumenta la quantità dell'articolo di uno",
       "cookies_required": "Abilita i cookie per utilizzare il carrello",
-      "custom_currency_html": "Tutti gli ordini vengono elaborati in {{ shopCurrency }}. Mentre il contenuto del tuo carrello è attualmente visualizzato in<span class='selected-currency'></span> , effettuerai il pagamento utilizzando {{ shopCurrency }} al tasso di cambio più attuale."
+      "custom_currency_html": "Tutti gli ordini vengono elaborati in {{ shopCurrency }}. Mentre il contenuto del tuo carrello è attualmente visualizzato in<span class='selected-currency'><\/span> , effettuerai il pagamento utilizzando {{ shopCurrency }} al tasso di cambio più attuale."
     },
     "label": {
       "quantity": "Quantità",
@@ -390,7 +399,7 @@
       "address1": "Indirizzo 1",
       "address2": "Indirizzo 2",
       "city": "Città",
-      "country": "Paese/regione",
+      "country": "Paese\/regione",
       "province": "Provincia",
       "zip": "Codice postale",
       "phone": "Telefono",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Utilizza le frecce sinistra/destra per navigare nella presentazione o scorri verso sinistra/destra se utilizzi un dispositivo mobile",
+      "navigation_instructions": "Utilizza le frecce sinistra\/destra per navigare nella presentazione o scorri verso sinistra\/destra se utilizzi un dispositivo mobile",
       "next_slide": "Diapositiva successiva",
       "previous_slide": "Diapositiva precedente",
       "play": "Riproduci la presentazione",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Errore durante la ricerca dell'indirizzo",
       "address_no_results": "Nessun risultato per quell'indirizzo",
-      "address_query_limit_html": "Hai superato il limite di utilizzo dell&#39;API di Google. Prendi in considerazione l&#39;aggiornamento a un <a href=\"https://developers.google.com/maps/premium/usage-limits\">piano Premium</a> .",
+      "address_query_limit_html": "Hai superato il limite di utilizzo dell&#39;API di Google. Prendi in considerazione l&#39;aggiornamento a un <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">piano Premium<\/a> .",
       "auth_error_html": "Si è verificato un problema durante l'autenticazione del tuo account Google Maps."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Prezzo di vendita",
       "regular_price": "Prezzo regolare",
       "include_taxes": "Tasse incluse.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Spedizione</a> calcolata al momento del pagamento.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Spedizione<\/a> calcolata al momento del pagamento.",
       "unit_price": "Prezzo unitario"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }

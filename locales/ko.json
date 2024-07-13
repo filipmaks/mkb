@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "입력하다",
       "signup_form_email_label": "이메일",
       "signup_form_success": "오픈 직전에 이메일을 보내드리겠습니다!",
-      "admin_link_html": "당신이 가게 주인이신가요? <a href=\"/admin\" class=\"text-link\">여기에 로그인하세요</a>",
+      "admin_link_html": "당신이 가게 주인이신가요? <a href=\"\/admin\" class=\"text-link\">여기에 로그인하세요<\/a>",
       "password_link": "비밀번호를 사용하여 입력",
       "powered_by_shopify_html": "이 상점은 {{ shopify }}에서 운영됩니다.",
       "close": "닫기(esc)"
@@ -151,7 +160,7 @@
       "heading": "와! 진정하세요, 타이거!",
       "text": "추가 기능이 더 필요한 것 같습니다.\n\n귀하의 현재 계획 [plan_name]은 최대 [current_limit]개의 추가 기능만 활성화합니다. [upgraded_plan]을 사용하면 [upgraded_limit] 추가 기능을 활성화할 수 있습니다. 모든 프리미엄 기능을 잠금 해제하려면 계획을 업그레이드하세요.",
       "upgrade_now": "지금 업그레이드",
-      "note": "*참고: [current_limit]개 이상의 추가 기능을 선택한 경우 선택한 첫 번째 [current_limit]개 추가 기능만 활성화됩니다. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">초과 추가 기능을 비활성화하려면 어떻게 해야 합니까?</a>"
+      "note": "*참고: [current_limit]개 이상의 추가 기능을 선택한 경우 선택한 첫 번째 [current_limit]개 추가 기능만 활성화됩니다. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">초과 추가 기능을 비활성화하려면 어떻게 해야 합니까?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "입력하다"
     },
     "agree_to_terms": {
-      "label_html": "<a href='/pages/terms-of-service'>이용약관</a> 에 동의합니다.",
+      "label_html": "<a href='\/pages\/terms-of-service'>이용약관<\/a> 에 동의합니다.",
       "warning_text": "결제를 위해서는 판매약관에 동의해야 합니다.",
       "order_title": "이용약관에 동의합니다.",
       "yes_label": "예"
@@ -202,7 +211,7 @@
       "error_message": "계속하려면 선택하세요."
     },
     "gift_wrap": {
-      "checkbox_label": "선물 상자/포장 추가",
+      "checkbox_label": "선물 상자\/포장 추가",
       "text_field_label": "선물 메시지",
       "text_field_placeholder": "여기에 선물 메시지를 적어주세요..."
     },
@@ -316,9 +325,9 @@
       "note": "판매자를 위한 특별 지침",
       "subtotal": "소계",
       "taxes_and_shipping_at_checkout": "결제 시 계산되는 세금 및 배송비",
-      "taxes_and_shipping_policy_at_checkout_html": "결제 시 계산되는 세금 및 <a href=\"{{ link }}\">배송비</a>",
+      "taxes_and_shipping_policy_at_checkout_html": "결제 시 계산되는 세금 및 <a href=\"{{ link }}\">배송비<\/a>",
       "taxes_included_but_shipping_at_checkout": "세금 포함 및 배송비는 결제 시 계산됩니다.",
-      "taxes_included_and_shipping_policy_html": "세금 포함. <a href=\"{{ link }}\">배송비는</a> 결제 시 계산됩니다.",
+      "taxes_included_and_shipping_policy_html": "세금 포함. <a href=\"{{ link }}\">배송비는<\/a> 결제 시 계산됩니다.",
       "update": "카트 업데이트",
       "checkout": "체크아웃",
       "empty": "당신의 카트는 현재 비어 있습니다.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "품목 수량을 1개 줄입니다.",
       "increase_quantity": "아이템 수량을 하나 늘립니다.",
       "cookies_required": "장바구니를 사용하려면 쿠키를 활성화하세요.",
-      "custom_currency_html": "모든 주문은 {{ shopCurrency }}에서 처리됩니다. 장바구니의 내용이 현재 표시되는 동안<span class='selected-currency'></span> , 최신 환율로 {{ shopCurrency }}을(를) 사용하여 결제하게 됩니다."
+      "custom_currency_html": "모든 주문은 {{ shopCurrency }}에서 처리됩니다. 장바구니의 내용이 현재 표시되는 동안<span class='selected-currency'><\/span> , 최신 환율로 {{ shopCurrency }}을(를) 사용하여 결제하게 됩니다."
     },
     "label": {
       "quantity": "수량",
@@ -390,7 +399,7 @@
       "address1": "주소 1",
       "address2": "주소 2",
       "city": "도시",
-      "country": "국가/지역",
+      "country": "국가\/지역",
       "province": "주",
       "zip": "우편번호",
       "phone": "핸드폰",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "왼쪽/오른쪽 화살표를 사용하여 슬라이드쇼를 탐색하거나 모바일 장치를 사용하는 경우 왼쪽/오른쪽으로 스와이프하세요.",
+      "navigation_instructions": "왼쪽\/오른쪽 화살표를 사용하여 슬라이드쇼를 탐색하거나 모바일 장치를 사용하는 경우 왼쪽\/오른쪽으로 스와이프하세요.",
       "next_slide": "다음 슬라이드",
       "previous_slide": "이전 슬라이드",
       "play": "슬라이드쇼 재생",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "해당 주소를 찾는 중에 오류가 발생했습니다.",
       "address_no_results": "해당 주소에 대한 검색결과가 없습니다.",
-      "address_query_limit_html": "Google API 사용 제한을 초과했습니다. <a href=\"https://developers.google.com/maps/premium/usage-limits\">프리미엄 플랜</a> 으로 업그레이드하는 것을 고려해 보세요.",
+      "address_query_limit_html": "Google API 사용 제한을 초과했습니다. <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">프리미엄 플랜<\/a> 으로 업그레이드하는 것을 고려해 보세요.",
       "auth_error_html": "Google 지도 계정을 인증하는 중에 문제가 발생했습니다."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "판매 가격",
       "regular_price": "정가",
       "include_taxes": "세금 포함.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">배송비는</a> 결제 시 계산됩니다.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">배송비는<\/a> 결제 시 계산됩니다.",
       "unit_price": "단가"
     },
     "product": {
@@ -526,7 +535,7 @@
       "view_more": "더보기",
       "view_in_space": "내 공간에서 보기",
       "view_in_space_label": "귀하의 공간에서 보기, 증강 현실 창에 항목 로드",
-      "slide_label": "슬라이드 {{ slide_number }}/{{ slide_max }}.",
+      "slide_label": "슬라이드 {{ slide_number }}\/{{ slide_max }}.",
       "gallery_thumbnail_alt": "갤러리 뷰어에 이미지 로드, {{ imageAlt }}",
       "video_thumbnail_alt": "갤러리 뷰어에서 비디오 로드 및 재생, {{ imageAlt }}",
       "model_thumbnail_alt": "갤러리 뷰어에 3D 모델 로드, {{ imageAlt }}"
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }
