@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_UMLMRq": {
+          "type": "slide"
+        }
+      },
+      "block_order": [
+        "slide_UMLMRq"
+      ],
+      "settings": {
+        "section_height": "lg",
+        "section_height_mobile": "lg"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection"
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collection"
+  ]
+}

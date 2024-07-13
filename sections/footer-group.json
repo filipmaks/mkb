@@ -1,0 +1,146 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "guarantee": {
+      "type": "guarantee",
+      "blocks": {
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-0": {
+          "type": "guarantee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jacket3_15487155-4cac-45a6-8dbb-a525b870a342.png",
+            "icon": "",
+            "heading": "Our guarantee",
+            "text": "<p>Share your guarantees with your customers.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-1": {
+          "type": "guarantee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skirt1.png",
+            "icon": "",
+            "heading": "Our guarantee",
+            "text": "<p>Share your guarantees with your customers.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-2": {
+          "type": "guarantee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Denim-on-Denim_1.jpg",
+            "icon": "local_shipping",
+            "heading": "Our guarantee",
+            "text": "<p>Share your guarantees with your customers.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "1ed2b6b3-7cac-421c-8e0c-e7568a46da89": {
+          "type": "guarantee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/boho1.jpg",
+            "icon": "schedule",
+            "heading": "Our guarantee",
+            "text": "<p>Share your guarantees with your customers.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-0",
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-1",
+        "template--16728404820220__e68f7d8f-1402-48c1-adf1-43c83640939b-16860578545dd72f90-2",
+        "1ed2b6b3-7cac-421c-8e0c-e7568a46da89"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "section_style": "default",
+        "container_size": "container",
+        "text_alignment": "text-center",
+        "media_size": "xl",
+        "images_loading_type": "lazy"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "heading": "",
+            "column_width": 2,
+            "title": "",
+            "subheading": "A short sentence describing what someone will receive by subscribing",
+            "customer_tag": "newsletter"
+          }
+        },
+        "92a35172-c73f-43f0-8960-b512e8a08e9f": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "column_width": 2,
+            "title": "Heading",
+            "subheading": "",
+            "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+            "logo_url": "",
+            "logo_width": 150,
+            "show_email": true,
+            "show_phone": true,
+            "show_social_media": false
+          }
+        },
+        "77caeadf-1f8d-4479-9624-8676a5312f04": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "column_width": 1,
+            "title": "Quick Links",
+            "subheading": "",
+            "menu": "footer"
+          }
+        },
+        "1d2e0af9-78da-4426-8a1c-51e6ac486e73": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "column_width": 2,
+            "title": "About Us",
+            "subheading": "",
+            "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+            "logo_url": "",
+            "logo_width": 150,
+            "show_email": true,
+            "show_phone": true,
+            "show_social_media": false
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "92a35172-c73f-43f0-8960-b512e8a08e9f",
+        "77caeadf-1f8d-4479-9624-8676a5312f04",
+        "1d2e0af9-78da-4426-8a1c-51e6ac486e73"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "social_media_position_desktop": "right",
+        "social_media_title": "Follow-us on social media!",
+        "show_payment_icons": true,
+        "custom_credential": ""
+      }
+    }
+  },
+  "order": [
+    "guarantee",
+    "footer"
+  ]
+}

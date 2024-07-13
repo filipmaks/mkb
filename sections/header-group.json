@@ -1,0 +1,30 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "header": {
+      "type": "header",
+      "settings": {
+        "menu": "main-menu",
+        "type": "center",
+        "enable_logo_link": true,
+        "logo_default": "shopify:\/\/shop_images\/debutify-logo.svg",
+        "logo_inverted": "shopify:\/\/shop_images\/debutify-logo-inverted.svg",
+        "logo_mobile": "shopify:\/\/shop_images\/debutify-glyph.svg",
+        "logo_width_desktop": 200,
+        "logo_width_mobile": 40
+      }
+    },
+    "drawer-menu": {
+      "type": "drawer-menu"
+    },
+    "menu-bar": {
+      "type": "dbtfy-menu-bar"
+    }
+  },
+  "order": [
+    "header",
+    "drawer-menu",
+    "menu-bar"
+  ]
+}

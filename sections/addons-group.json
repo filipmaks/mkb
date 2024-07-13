@@ -1,0 +1,72 @@
+{
+  "type": "custom.addons",
+  "name": "Addons group",
+  "sections": {
+    "age-check": {
+      "type": "dbtfy-age-check"
+    },
+    "announcement-bar": {
+      "type": "dbtfy-announcement-bar"
+    },
+    "cart-goal": {
+      "type": "dbtfy-cart-goal"
+    },
+    "cart-notification": {
+      "type": "dbtfy-cart-notification"
+    },
+    "cart-reminder": {
+      "type": "dbtfy-cart-reminder"
+    },
+    "cart-upsell": {
+      "type": "dbtfy-cart-upsell"
+    },
+    "color-swatches": {
+      "type": "dbtfy-color-swatches"
+    },
+    "customizable-products": {
+      "type": "dbtfy-customizable-products"
+    },
+    "delivery-time": {
+      "type": "dbtfy-delivery-time"
+    },
+    "mega-menu": {
+      "type": "dbtfy-mega-menu"
+    },
+    "newsletter-popup": {
+      "type": "dbtfy-newsletter-popup"
+    },
+    "product-swatches": {
+      "type": "dbtfy-product-swatches"
+    },
+    "quantity-breaks": {
+      "type": "dbtfy-quantity-breaks"
+    },
+    "size-chart": {
+      "type": "dbtfy-size-chart"
+    },
+    "social-discount": {
+      "type": "dbtfy-social-discount"
+    },
+    "upsell-popup": {
+      "type": "dbtfy-upsell-popup"
+    }
+  },
+  "order": [
+    "age-check",
+    "announcement-bar",
+    "cart-goal",
+    "cart-notification",
+    "cart-reminder",
+    "cart-upsell",
+    "color-swatches",
+    "customizable-products",
+    "delivery-time",
+    "mega-menu",
+    "newsletter-popup",
+    "product-swatches",
+    "quantity-breaks",
+    "size-chart",
+    "social-discount",
+    "upsell-popup"
+  ]
+}

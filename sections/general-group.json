@@ -1,0 +1,20 @@
+{
+  "type": "custom.general",
+  "name": "General group",
+  "sections": {
+    "quick-guide": {
+      "type": "quick-guide"
+    },
+    "account-settings": {
+      "type": "account-settings"
+    },
+    "live-chat": {
+      "type": "live-chat"
+    }
+  },
+  "order": [
+    "quick-guide",
+    "account-settings",
+    "live-chat"
+  ]
+}

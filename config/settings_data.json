@@ -1,0 +1,27 @@
+{
+  "current": {
+    "product_grid_show_vendor": true,
+    "product_grid_truncate_title": false,
+    "product_grid_enable_transparent_background": true,
+    "product_grid_badge_placement": "top-left",
+    "collection_grid_show_title": true,
+    "collection_grid_enable_card": false,
+    "collection_grid_show_products_count": true,
+    "collection_grid_enable_hover_animation": true,
+    "collection_grid_show_button": true,
+    "collection_grid_button_style": "btn--primary",
+    "collection_grid_button_size": "btn--sm",
+    "footer_border_color": "#9f9f9f",
+    "favicon": "shopify:\/\/shop_images\/debutify-glyph.svg",
+    "dbtfy_back_to_top_position": "center",
+    "dbtfy_breadcrumbs_show_social_media_on_mobile": true,
+    "dbtfy_cart_favicon_icon": "shopify:\/\/shop_images\/debutify-logo.svg",
+    "social_facebook": "shopify:\/\/collections\/coats-jackets",
+    "social_twitter": "shopify:\/\/blogs\/news",
+    "social_instagram": "shopify:\/\/collections\/sales",
+    "social_youtube": "shopify:\/\/pages\/faq",
+    "content_for_index": [
+
+    ]
+  }
+}
