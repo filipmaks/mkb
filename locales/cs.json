@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Vstupte",
       "signup_form_email_label": "E-mailem",
       "signup_form_success": "Před otevřením vám zašleme e-mail!",
-      "admin_link_html": "Jste majitelem obchodu? <a href=\"/admin\" class=\"text-link\">Přihlaste se zde</a>",
+      "admin_link_html": "Jste majitelem obchodu? <a href=\"\/admin\" class=\"text-link\">Přihlaste se zde<\/a>",
       "password_link": "Zadejte pomocí hesla",
       "powered_by_shopify_html": "Tento obchod bude fungovat od {{ shopify }}",
       "close": "zavřít (esc)"
@@ -151,7 +160,7 @@
       "heading": "Páni! Klídek, Tygře!",
       "text": "Zdá se, že potřebujete více doplňků.\n\nVáš aktuální plán [název_plánu] se aktivuje pouze do [current_limit] doplňků. [upgraded_plan] vám umožňuje aktivovat doplňky [upgraded_limit]. Upgradujte svůj plán a odemkněte VŠECHNY prémiové funkce.",
       "upgrade_now": "Vylepšit nyní",
-      "note": "*Poznámka: Pokud je vybráno více doplňků než [current_limit], aktivují se pouze první zaškrtnuté doplňky [current_limit]. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Jak deaktivuji nadbytečné doplňky?</a>"
+      "note": "*Poznámka: Pokud je vybráno více doplňků než [current_limit], aktivují se pouze první zaškrtnuté doplňky [current_limit]. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Jak deaktivuji nadbytečné doplňky?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Vstupte"
     },
     "agree_to_terms": {
-      "label_html": "Souhlasím s <a href='/pages/terms-of-service'>obchodními podmínkami</a> .",
+      "label_html": "Souhlasím s <a href='\/pages\/terms-of-service'>obchodními podmínkami<\/a> .",
       "warning_text": "Chcete-li provést platbu, musíte souhlasit s obchodními podmínkami.",
       "order_title": "Souhlasím s podmínkami.",
       "yes_label": "Ano"
@@ -202,7 +211,7 @@
       "error_message": "Pokračujte výběrem"
     },
     "gift_wrap": {
-      "checkbox_label": "Přidejte dárkovou krabičku/obal",
+      "checkbox_label": "Přidejte dárkovou krabičku\/obal",
       "text_field_label": "Dárková zpráva",
       "text_field_placeholder": "Sem napište dárkovou zprávu..."
     },
@@ -316,9 +325,9 @@
       "note": "Zvláštní pokyny pro prodejce",
       "subtotal": "Mezisoučet",
       "taxes_and_shipping_at_checkout": "Daně a doprava vypočítané při pokladně",
-      "taxes_and_shipping_policy_at_checkout_html": "Daně a <a href=\"{{ link }}\">doprava</a> vypočítané při pokladně",
+      "taxes_and_shipping_policy_at_checkout_html": "Daně a <a href=\"{{ link }}\">doprava<\/a> vypočítané při pokladně",
       "taxes_included_but_shipping_at_checkout": "Včetně daně a dopravy vypočítané při pokladně",
-      "taxes_included_and_shipping_policy_html": "Včetně daně. <a href=\"{{ link }}\">Poštovné</a> kalkulováno při pokladně.",
+      "taxes_included_and_shipping_policy_html": "Včetně daně. <a href=\"{{ link }}\">Poštovné<\/a> kalkulováno při pokladně.",
       "update": "Aktualizace košíku",
       "checkout": "Překontrolovat",
       "empty": "Váš nákupní košík je momentálně prázdný.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Snižte množství položky o jednu",
       "increase_quantity": "Zvyšte množství položky o jednu",
       "cookies_required": "Chcete-li používat nákupní košík, povolte soubory cookie",
-      "custom_currency_html": "Všechny objednávky jsou zpracovávány v {{ shopCurrency }}. Zatímco obsah vašeho košíku je aktuálně zobrazen v<span class='selected-currency'></span> , provedete platbu pomocí {{ shopCurrency }} za nejaktuálnější směnný kurz."
+      "custom_currency_html": "Všechny objednávky jsou zpracovávány v {{ shopCurrency }}. Zatímco obsah vašeho košíku je aktuálně zobrazen v<span class='selected-currency'><\/span> , provedete platbu pomocí {{ shopCurrency }} za nejaktuálnější směnný kurz."
     },
     "label": {
       "quantity": "Množství",
@@ -390,7 +399,7 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Město",
-      "country": "Země/oblast",
+      "country": "Země\/oblast",
       "province": "Provincie",
       "zip": "Poštovní směrovací číslo",
       "phone": "Telefon",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Pomocí šipek doleva/doprava procházejte prezentaci nebo přejeďte prstem doleva/doprava, pokud používáte mobilní zařízení",
+      "navigation_instructions": "Pomocí šipek doleva\/doprava procházejte prezentaci nebo přejeďte prstem doleva\/doprava, pokud používáte mobilní zařízení",
       "next_slide": "Další snímek",
       "previous_slide": "Předchozí snímek",
       "play": "Přehrát prezentaci",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Chyba při vyhledávání této adresy",
       "address_no_results": "Žádné výsledky pro tuto adresu",
-      "address_query_limit_html": "Překročili jste limit využití Google API. Zvažte upgrade na <a href=\"https://developers.google.com/maps/premium/usage-limits\">prémiový tarif</a> .",
+      "address_query_limit_html": "Překročili jste limit využití Google API. Zvažte upgrade na <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">prémiový tarif<\/a> .",
       "auth_error_html": "Při ověřování vašeho účtu Map Google došlo k problému."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Prodejní cena",
       "regular_price": "Běžná cena",
       "include_taxes": "Včetně daně.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Poštovné</a> kalkulováno při pokladně.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Poštovné<\/a> kalkulováno při pokladně.",
       "unit_price": "Jednotková cena"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }
