@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "header",
   "name": "Header group",
@@ -8,18 +17,28 @@
         "menu": "main-menu",
         "type": "center",
         "enable_logo_link": true,
-        "logo_default": "shopify:\/\/shop_images\/debutify-logo.svg",
-        "logo_inverted": "shopify:\/\/shop_images\/debutify-logo-inverted.svg",
-        "logo_mobile": "shopify:\/\/shop_images\/debutify-glyph.svg",
+        "logo_default": "shopify:\/\/shop_images\/Add_a_heading-removebg-preview.png",
         "logo_width_desktop": 200,
         "logo_width_mobile": 40
       }
     },
     "drawer-menu": {
-      "type": "drawer-menu"
+      "type": "drawer-menu",
+      "settings": {
+        "toggle_submenu_on_links": true,
+        "show_email": true,
+        "show_phone": true,
+        "show_social_medias": true,
+        "show_menu_icon": false,
+        "heading": "Menu",
+        "primary_menu": "main-menu",
+        "secondary_menu": "footer"
+      }
     },
     "menu-bar": {
-      "type": "dbtfy-menu-bar"
+      "type": "dbtfy-menu-bar",
+      "settings": {
+      }
     }
   },
   "order": [
