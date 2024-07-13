@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "404": {
@@ -28,7 +37,7 @@
       "login_form_submit": "Binnenkomen",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Wij sturen u vlak voordat wij opengaan een e-mail!",
-      "admin_link_html": "Bent u de winkeleigenaar? <a href=\"/admin\" class=\"text-link\">Hier inloggen</a>",
+      "admin_link_html": "Bent u de winkeleigenaar? <a href=\"\/admin\" class=\"text-link\">Hier inloggen<\/a>",
       "password_link": "Voer in met wachtwoord",
       "powered_by_shopify_html": "Deze winkel wordt mogelijk gemaakt door {{ shopify }}",
       "close": "sluiten (esc)"
@@ -151,7 +160,7 @@
       "heading": "Wauw! Makkelijk daar, Tijger!",
       "text": "Het lijkt erop dat je meer add-ons nodig hebt.\n\nUw huidige abonnement [plan_name] activeert maximaal [current_limit] add-ons. Met [upgraded_plan] kunt u [upgraded_limit] add-ons activeren. Upgrade uw abonnement om ALLE premiumfuncties te ontgrendelen.",
       "upgrade_now": "Waardeer nu op",
-      "note": "*Opmerking: als er meer dan [current_limit] add-ons zijn geselecteerd, worden alleen de eerste aangevinkte [current_limit] add-ons geactiveerd. <a href=\"https://help.debutify.com/en/articles/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Hoe schakel ik overtollige add-ons uit?</a>"
+      "note": "*Opmerking: als er meer dan [current_limit] add-ons zijn geselecteerd, worden alleen de eerste aangevinkte [current_limit] add-ons geactiveerd. <a href=\"https:\/\/help.debutify.com\/en\/articles\/4656443-how-to-uninstall-an-add-on-in-debutify-3-0\" class=\"text-link\">Hoe schakel ik overtollige add-ons uit?<\/a>"
     }
   },
   "add-ons": {
@@ -164,7 +173,7 @@
       "button_label": "Binnenkomen"
     },
     "agree_to_terms": {
-      "label_html": "Ik ga akkoord met de <a href='/pages/terms-of-service'>algemene voorwaarden</a> .",
+      "label_html": "Ik ga akkoord met de <a href='\/pages\/terms-of-service'>algemene voorwaarden<\/a> .",
       "warning_text": "U moet akkoord gaan met de verkoopvoorwaarden om af te rekenen.",
       "order_title": "Ik ga akkoord met de algemene voorwaarden.",
       "yes_label": "Ja"
@@ -202,7 +211,7 @@
       "error_message": "Maak een keuze om door te gaan"
     },
     "gift_wrap": {
-      "checkbox_label": "Voeg een geschenkdoos/verpakking toe",
+      "checkbox_label": "Voeg een geschenkdoos\/verpakking toe",
       "text_field_label": "Cadeau bericht",
       "text_field_placeholder": "Schrijf hier uw cadeaubericht..."
     },
@@ -316,9 +325,9 @@
       "note": "Speciale instructies voor de verkoper",
       "subtotal": "Subtotaal",
       "taxes_and_shipping_at_checkout": "Belastingen en verzendkosten berekend bij het afrekenen",
-      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzendkosten</a> berekend bij het afrekenen",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzendkosten<\/a> berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": "Inclusief belasting en verzendkosten berekend bij het afrekenen",
-      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzending</a> berekend bij het afrekenen.",
+      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzending<\/a> berekend bij het afrekenen.",
       "update": "Winkelwagen bijwerken",
       "checkout": "Uitchecken",
       "empty": "Je winkelwagen is momenteel leeg.",
@@ -328,7 +337,7 @@
       "reduce_quantity": "Verminder het aantal artikelen met één",
       "increase_quantity": "Verhoog de artikelhoeveelheid met één",
       "cookies_required": "Schakel cookies in om het winkelwagentje te gebruiken",
-      "custom_currency_html": "Alle bestellingen worden verwerkt in {{ shopCurrency }}. Terwijl de inhoud van uw winkelwagen momenteel wordt weergegeven in<span class='selected-currency'></span> , rekent u af met {{ shopCurrency }} tegen de meest actuele wisselkoers."
+      "custom_currency_html": "Alle bestellingen worden verwerkt in {{ shopCurrency }}. Terwijl de inhoud van uw winkelwagen momenteel wordt weergegeven in<span class='selected-currency'><\/span> , rekent u af met {{ shopCurrency }} tegen de meest actuele wisselkoers."
     },
     "label": {
       "quantity": "Hoeveelheid",
@@ -390,7 +399,7 @@
       "address1": "Adres 1",
       "address2": "Adres 2",
       "city": "Stad",
-      "country": "Land/regio",
+      "country": "Land\/regio",
       "province": "Provincie",
       "zip": "Postcode",
       "phone": "Telefoon",
@@ -468,7 +477,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Gebruik de pijl-links/rechts om door de diavoorstelling te navigeren of veeg naar links/rechts als u een mobiel apparaat gebruikt",
+      "navigation_instructions": "Gebruik de pijl-links\/rechts om door de diavoorstelling te navigeren of veeg naar links\/rechts als u een mobiel apparaat gebruikt",
       "next_slide": "Volgende dia",
       "previous_slide": "Vorige dia",
       "play": "Diavoorstelling afspelen",
@@ -487,7 +496,7 @@
     "map": {
       "address_error": "Fout bij het opzoeken van dat adres",
       "address_no_results": "Geen resultaten voor dat adres",
-      "address_query_limit_html": "U heeft de gebruikslimiet van de Google API overschreden. Overweeg een upgrade naar een <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium Plan</a> .",
+      "address_query_limit_html": "U heeft de gebruikslimiet van de Google API overschreden. Overweeg een upgrade naar een <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a> .",
       "auth_error_html": "Er is een probleem opgetreden bij het verifiëren van uw Google Maps-account."
     }
   },
@@ -512,7 +521,7 @@
       "sale_price": "Verkoopprijs",
       "regular_price": "Normale prijs",
       "include_taxes": "Inclusief belasting.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Verzending</a> berekend bij het afrekenen.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Verzending<\/a> berekend bij het afrekenen.",
       "unit_price": "Eenheid prijs"
     },
     "product": {
@@ -552,5 +561,50 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }
